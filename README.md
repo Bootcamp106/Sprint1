@@ -44,6 +44,7 @@ Sprint 1
 •	Sprint Retrospective: Takım üyeleri olarak üniversite finalleri olması sebebiyle proje fikri bulmakta çokça vakit kaybettik. Fakat Sprint 1 sonrası oyunun görev aşamaları ve oluşum aşamaları daha sıkı şekilde ilerleyecektir. Yapılan toplantılarda projelerdeki ilerlemeler not alınacak ve whatsapp grubu üzerinden paylaşım yapılacaktır. 
 
 •	Toplantılardan ve Konuşmalardan Kareler: 
- 
- 
 
+![alt text](https://github.com/Bootcamp106/Sprint1/blob/main/whatsapp.jpg)
+![alt text](https://github.com/Bootcamp106/Sprint1/blob/main/Toplant%C4%B1.jpg)
+![alt text](https://github.com/Bootcamp106/Sprint1/blob/main/Toplant%C4%B1.jpg)
