@@ -43,6 +43,8 @@ Sprint 1
 
 •	Sprint Retrospective: Takım üyeleri olarak üniversite finalleri olması sebebiyle proje fikri bulmakta çokça vakit kaybettik. Fakat Sprint 1 sonrası oyunun görev aşamaları ve oluşum aşamaları daha sıkı şekilde ilerleyecektir. Yapılan toplantılarda projelerdeki ilerlemeler not alınacak ve whatsapp grubu üzerinden paylaşım yapılacaktır. 
 
+<a href="https://miro.com/app/board/uXjVM9RamFY=/?share_link_id=260274713448">Sprint Board</a>
+
 •	Toplantılardan ve Konuşmalardan Kareler: 
 
 ![alt text](https://github.com/Bootcamp106/Sprint1/blob/main/whatsapp.jpg)
