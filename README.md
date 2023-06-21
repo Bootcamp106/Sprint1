@@ -45,6 +45,7 @@ Sprint 1
 
 <a href="https://miro.com/app/board/uXjVM9RamFY=/?share_link_id=260274713448">Sprint Board</a>
 
+![alt text](https://github.com/Bootcamp106/Sprint1/blob/main/Sprint%20board.jpg)
 •	Toplantılardan ve Konuşmalardan Kareler: 
 
 ![alt text](https://github.com/Bootcamp106/Sprint1/blob/main/whatsapp.jpg)
