@@ -61,11 +61,10 @@ Sprint 1
 
 •	Daily Scrum: Daily Scrum toplantılarını bayram tatili gibi zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Proje ilerlemesine göre ihtiyaç duyuldukça toplantılar düzenlenmiştir.
 
-•	Sprint Board:
+•	Sprint Board:Sprint board ekran görüntüsü
 ![image](https://github.com/Bootcamp106/Sprint1/assets/135750192/ad523faf-9529-4fc0-898c-e304acb0b1c0)
 
-•	Ürün Durumu:
-
+•	Ürün Durumu:Ekran görüntüleri
 
 •	Sprint Review: Alınan Kararlar: Düşman karakterlerin, ana karakterlerin tasarımlarını ve seviye tasarımlarını tamamladık. Planlana seviyelerden ilkini tamamladık ve ikinci seviyenin kodlarına başladık. Son sprinte ikinci seviye ve üçüncü seviyenin tamamlanmasına karar verildi. 
 Sprint Rewiev Katılımcıları: Tüm Ekip 
