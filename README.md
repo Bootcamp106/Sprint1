@@ -54,3 +54,21 @@ Sprint 1
 Ürün Durumu: Ekran görüntüleri:
 ![alt text](https://github.com/Bootcamp106/Sprint1/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-06-20%20111619.jpg)
 ![alt text](https://github.com/Bootcamp106/Sprint1/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-06-20%20112117.jpg)
+
+•	Sprint 2
+
+•	Sprint içinde tamamlanması tahmin edilen puan:100
+
+•	Daily Scrum: Daily Scrum toplantılarını bayram tatili gibi zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Proje ilerlemesine göre ihtiyaç duyuldukça toplantılar düzenlenmiştir.
+
+•	Sprint Board:
+![image](https://github.com/Bootcamp106/Sprint1/assets/135750192/ad523faf-9529-4fc0-898c-e304acb0b1c0)
+
+•	Ürün Durumu:
+
+
+•	Sprint Review: Alınan Kararlar: Düşman karakterlerin, ana karakterlerin tasarımlarını ve seviye tasarımlarını tamamladık. Planlana seviyelerden ilkini tamamladık ve ikinci seviyenin kodlarına başladık. Son sprinte ikinci seviye ve üçüncü seviyenin tamamlanmasına karar verildi. 
+Sprint Rewiev Katılımcıları: Tüm Ekip 
+
+
+•	Sprint Retrospective: Projede planlanan ilerlemeyle gidildiğine ve son sprintte de aynı şekilde devam edilmesine karar verildi. Ve ekibin her aşama için aynı şekilde iletişimde kalmasına karar verildi.
