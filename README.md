@@ -55,6 +55,8 @@ Sprint 1
 ![alt text](https://github.com/Bootcamp106/Sprint1/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-06-20%20111619.jpg)
 ![alt text](https://github.com/Bootcamp106/Sprint1/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-06-20%20112117.jpg)
 
+
+
 •	Sprint 2
 
 •	Sprint içinde tamamlanması tahmin edilen puan:100
