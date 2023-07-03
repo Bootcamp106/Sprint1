@@ -67,6 +67,10 @@ Sprint 1
 ![image](https://github.com/Bootcamp106/Sprint1/assets/135750192/ad523faf-9529-4fc0-898c-e304acb0b1c0)
 
 •	Ürün Durumu:Ekran görüntüleri
+![WhatsApp Image 2023-07-03 at 00 12 30](https://github.com/Bootcamp106/Sprint1/assets/135750192/8530dd0f-0f92-4e32-9cb1-008550a57b04)
+![WhatsApp Image 2023-07-03 at 00 12 29](https://github.com/Bootcamp106/Sprint1/assets/135750192/dabd9832-0af5-4688-9166-e39a2997d77f)
+![WhatsApp Image 2023-07-03 at 00 12 30 (1)](https://github.com/Bootcamp106/Sprint1/assets/135750192/5a114f3c-8208-400d-b407-1f94191951b3)
+
 
 •	Sprint Review: Alınan Kararlar: Düşman karakterlerin, ana karakterlerin tasarımlarını ve seviye tasarımlarını tamamladık. Planlana seviyelerden ilkini tamamladık ve ikinci seviyenin kodlarına başladık. Son sprinte ikinci seviye ve üçüncü seviyenin tamamlanmasına karar verildi. 
 Sprint Rewiev Katılımcıları: Tüm Ekip 
