@@ -59,7 +59,11 @@ Sprint 1
 
 •	Sprint 2
 
+•	Sprint notları:
+
 •	Sprint içinde tamamlanması tahmin edilen puan:100
+
+•	Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 250 puanlık backlog bulunmaktadır. Birinci sprinte 50 puanlık ilerleme kaydettikten sonra 2. ve 3. sprint için 100 puanlık hedefler koyduk.
 
 •	Daily Scrum: Daily Scrum toplantılarını bayram tatili gibi zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Proje ilerlemesine göre ihtiyaç duyuldukça toplantılar düzenlenmiştir.
 
