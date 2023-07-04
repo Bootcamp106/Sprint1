@@ -59,13 +59,15 @@ Sprint 1
 
 •	Sprint 2
 
-•	Sprint notları:
+•	Sprint notları: Saldırma mekanizmasında kullanılacak silahlara karar verildi. Silahların tasarımı ve modellemesi, ana karakter modellemesi, düşman karakter modellemesi yapıldı. Özel efekt, partikül sistemleri, seviye tasarımı devam ediyor.
 
 •	Sprint içinde tamamlanması tahmin edilen puan:100
 
 •	Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 250 puanlık backlog bulunmaktadır. Birinci sprinte 50 puanlık ilerleme kaydettikten sonra 2. ve 3. sprint için 100 puanlık hedefler koyduk.
 
 •	Daily Scrum: Daily Scrum toplantılarını bayram tatili gibi zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Proje ilerlemesine göre ihtiyaç duyuldukça toplantılar düzenlenmiştir.
+![image](https://github.com/Bootcamp106/Sprint1/assets/135750192/40d788af-f167-4a66-a0f2-85f47b9c5005)
+
 
 •	Sprint Board:Sprint board ekran görüntüsü
 ![image](https://github.com/Bootcamp106/Sprint1/assets/135750192/ad523faf-9529-4fc0-898c-e304acb0b1c0)
