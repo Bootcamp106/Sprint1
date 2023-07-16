@@ -104,10 +104,15 @@ Sprint Rewiev Katılımcıları: Tüm Ekip
 
 •Ürün Durumu:
 ![ana_menu](https://github.com/Bootcamp106/Sprint1/assets/135750192/ac427ccf-c961-4868-8692-6053383d462d)
+
 ![sahne1 (2)](https://github.com/Bootcamp106/Sprint1/assets/135750192/b2d2bbc6-a10a-496e-8eb0-c7ad359a798d)
+
 ![sahne3v2](https://github.com/Bootcamp106/Sprint1/assets/135750192/abe09f70-edeb-4b77-a12e-4735f949255e)
+
 ![dusman_atak_kod](https://github.com/Bootcamp106/Sprint1/assets/135750192/ddd2df6d-9a1f-49fc-bd4e-7d12479bb6db)
+
 ![karekter_kod](https://github.com/Bootcamp106/Sprint1/assets/135750192/f5aa7d88-687d-4750-baec-1db7b624d6ae)
+
 ![ordulvlkod](https://github.com/Bootcamp106/Sprint1/assets/135750192/985aca44-7228-4d2b-bf7a-37dfb30f12eb)
 
 
