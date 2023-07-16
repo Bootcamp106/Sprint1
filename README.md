@@ -87,7 +87,9 @@ Sprint Rewiev Katılımcıları: Tüm Ekip
 
 
 
+
 Sprint 3
+
 • Sprint notları: Saldırma mekanizmasında kullanılacak silahları tasarladık ve oyuna entegre ettik. Özel efekt, partikül sistemleri, seviye tasarımını tamamlayarak oyunumuzu bitirdik.
 
 • Sprint içinde tamamlanması tahmin edilen puan:100
