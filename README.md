@@ -83,3 +83,27 @@ Sprint Rewiev Katılımcıları: Tüm Ekip
 
 
 •	Sprint Retrospective: Projede planlanan ilerlemeyle gidildiğine ve son sprintte de aynı şekilde devam edilmesine karar verildi. Ve ekibin her aşama için aynı şekilde iletişimde kalmasına karar verildi.
+
+
+
+
+Sprint 3
+• Sprint notları: Saldırma mekanizmasında kullanılacak silahları tasarladık ve oyuna entegre ettik. Özel efekt, partikül sistemleri, seviye tasarımını tamamlayarak oyunumuzu bitirdik.
+
+• Sprint içinde tamamlanması tahmin edilen puan:100
+
+• Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 250 puanlık backlog bulunmaktadır. Birinci sprinte 50 puanlık ikinci sprintte de 100 puanlık ilerleme kaydettikten sonra son sprint için 100 puanlık hedefimiz kaldı.
+
+• Daily Scrum: Daily Scrum toplantılarını bu sprintte de zamansal nedenlerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Proje ilerlemesine göre ihtiyaç duyuldukça toplantılar düzenlenmiştir.
+![WhatsApp Image 2023-07-15 at 22 14 28](https://github.com/Bootcamp106/Sprint1/assets/135750192/ac4d9589-76c5-4fe6-ab59-6160dadd369a)
+
+•Sprint Board:Sprint board ekran görüntüsü
+![Copy of Kanban Framework](https://github.com/Bootcamp106/Sprint1/assets/135750192/9b757de6-6e6c-482c-ac3d-25cd890daad2)
+
+•Ürün Durumu:
+
+
+• Sprint Review: Alınan Kararlar: Sprint 2’de başladığımız seviye 2 ve planladığımız son seviyeyi tamamladık. Devam eden görevleri de tamamlayarak planladığımız görev şemasını bitirmiş olduk. Projemiz için planladığımız 3 seviyeyi de tamamlayarak hedefimize ulaştık.
+ Sprint Review Katılımcıları: Tüm Ekip
+
+• Sprint Retrospective: Bootcamp süresince takımdaki herkes aktif katılım sağlamış ve üzerine düşen görevleri yerine getirmiştir. Final dönemleri ve bayram gibi nedenlerden zaman olarak zorlansak bile takımca üstesinden geldik ve ortaya çıkardığımız proje içimize sindi.
