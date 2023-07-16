@@ -57,7 +57,7 @@ Sprint 1
 
 
 
-•	Sprint 2
+#	Sprint 2
 
 •	Sprint notları: Saldırma mekanizmasında kullanılacak silahlara karar verildi. Silahların tasarımı ve modellemesi, ana karakter modellemesi, düşman karakter modellemesi yapıldı. Özel efekt, partikül sistemleri, seviye tasarımı devam ediyor.
 
@@ -88,7 +88,7 @@ Sprint Rewiev Katılımcıları: Tüm Ekip
 
 
 
-Sprint 3
+#Sprint 3
 
 • Sprint notları: Saldırma mekanizmasında kullanılacak silahları tasarladık ve oyuna entegre ettik. Özel efekt, partikül sistemleri, seviye tasarımını tamamlayarak oyunumuzu bitirdik.
 
